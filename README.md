@@ -1,2 +1,11 @@
-# generative-ai-training
-My notes, assignments, and projects from the OUK &amp; BCS Generative AI Training Program (2025).
+# Generative AI Training
+This is my learning repository for the **Generative AI Training Program** (OUK & BCS, 2025).
+
+## 📘 What’s inside
+Notes from weekly lectures
+My assignments & mini-projects
+Resources and reading materials
+Hackathon project (Week 9–10)
+
+## 🚀 Goal
+To learn Generative AI step by step and build practical AI applications.
